@@ -11,5 +11,8 @@ public class Runner {
 
         //Versiyon 4
         System.out.println("degisiklik");
+
+        //Versiyon 5
+        System.out.println("degisiklik");
     }
 }
