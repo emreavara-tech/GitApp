@@ -14,5 +14,9 @@ public class Runner {
 
         //Versiyon 5
         System.out.println("degisiklik");
+
+
+        //yeni kodlar ekledim.
+        //Versiyon 7
     }
 }
